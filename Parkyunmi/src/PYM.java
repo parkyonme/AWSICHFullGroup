@@ -10,6 +10,7 @@ public class PYM {
 		System.out.println("ABG, OGH, LDH");
 		System.out.println("LYB, JYS, JHS");
 		
+		//얼미얼;미ㅏㅓㄴㅇ;ㄹ
 	}
 
 }
